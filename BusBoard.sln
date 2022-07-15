@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusBoard", "BusBoard\BusBoard.csproj", "{F566B9A9-1844-47A4-AEFA-DBD35F355C36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusBoard.ConsoleApp", "BusBoard.ConsoleApp\BusBoard.ConsoleApp.csproj", "{AA80085C-5DCE-4577-B6C1-B5C903185735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F566B9A9-1844-47A4-AEFA-DBD35F355C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F566B9A9-1844-47A4-AEFA-DBD35F355C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F566B9A9-1844-47A4-AEFA-DBD35F355C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F566B9A9-1844-47A4-AEFA-DBD35F355C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA80085C-5DCE-4577-B6C1-B5C903185735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA80085C-5DCE-4577-B6C1-B5C903185735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA80085C-5DCE-4577-B6C1-B5C903185735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA80085C-5DCE-4577-B6C1-B5C903185735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
